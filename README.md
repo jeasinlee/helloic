@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/jeasinlee/helloic.svg)](https://jitpack.io/#jeasinlee/helloic)
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
