@@ -1,4 +1,4 @@
-[![](https://jitpack.io/v/jeasinlee/helloic.svg)](https://jitpack.io/#jeasinlee/helloic)
+[![Release](https://jitpack.io/v/jeasinlee/helloic.svg)](https://jitpack.io/#jeasinlee/helloic)
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
